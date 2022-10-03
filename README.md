@@ -1,7 +1,9 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=CryptoCashCashoo)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoCashCashoo)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CryptoCashCashoo&show_icons=true)
+<a href="https://github-readme-stats.vercel.app/api?username=CryptoCashCashoo&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoCashCashoo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/CryptoCashCashoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoCashCashoo&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
 
 <!--
