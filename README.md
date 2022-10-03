@@ -1,4 +1,13 @@
-### Hi there 👋
+### My stats
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=CryptoCashCashoo)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=CryptoCashCashoo&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoCashCashoo&theme=blue-green)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 <!--
 **CryptoCashCashoo/CryptoCashCashoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
