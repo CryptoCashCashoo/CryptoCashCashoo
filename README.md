@@ -8,6 +8,7 @@
 
 Todoes 
 - Python matrix integer inversions
+- Integers determinants
 - Kohan
 - Music Online App
 
