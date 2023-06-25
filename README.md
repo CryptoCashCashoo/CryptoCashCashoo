@@ -9,6 +9,7 @@
 Todoes 
 - Python matrix integer inversions
 - Integers determinants
+- Group classification
 - Kohan
 - Music Online App
 
