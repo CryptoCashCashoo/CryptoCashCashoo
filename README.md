@@ -12,6 +12,7 @@ Todoes
 - Group classification
 - Kohan
 - Music Online App
+- FS screen with custom scripts
 
 <!--
 **CryptoCashCashoo/CryptoCashCashoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
