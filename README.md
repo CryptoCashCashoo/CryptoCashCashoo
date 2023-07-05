@@ -6,7 +6,6 @@
 </a>
 
 
-Todoes 
 - Python matrix integer inversions
 - Integers determinants
 - Group classification
